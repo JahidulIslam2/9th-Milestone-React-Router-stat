@@ -1,0 +1,25 @@
+.nav{
+
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+ 
+}
+
+.nav a{
+
+    text-decoration: none;
+    margin-left: 30px;
+    
+    padding: 10px;
+}
+.nav a:hover{
+    background-color: lightsteelblue;
+    border: 1px solid rgb(116, 112, 112);
+    border-radius: 3px;
+}
+
+.active{
+    color: green;
+    
+}

@@ -1,0 +1,8 @@
+.album h1{
+    width: 400px;
+    margin-left: 30%;
+    border: 1px solid black;
+    border-radius: 5% ;
+    background-color: burlywood;
+    padding: 5px;
+}
